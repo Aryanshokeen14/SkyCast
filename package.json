@@ -1,6 +1,6 @@
 {
   "engines":{
-    "node":"23.10.0"
+    "node":"22.x"
   },
   "name": "mini-project-react",
   "private": true,
